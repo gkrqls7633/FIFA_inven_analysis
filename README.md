@@ -9,11 +9,11 @@
 - 선수들에 대한 평가 중 어떤 말들이 많이 사용되는지 확인
 
 
-### Crawling
+### Crawling 단계
 - 선수들에 대한 user들의 comment data 수집
 - 선수명 & 포지션 정보 수집
 
-### Analysis
+### Analysis 단계
 1. 데이터 불러오기 및 형태 확인
 2. Descriptive Analysis
 3. EDA를 통한 insight 도출
