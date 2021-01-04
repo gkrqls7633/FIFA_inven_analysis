@@ -6,7 +6,7 @@
 - user들의 선수들에 대한 평가가 어떤지 확인
 - 주로 어떤선수들을 사용하는지(언급하는지) 확인
 - 포지션별로 어떤 선수들을 많이 사용하는지(언급하는지) 확인
-- 선수들에 대한 평가 중 어떤 말들이 많이 사용되는지 확인
+- 선수들에 대한 평가 중 어떤 말들이 많이 사용되는지 확인(wordcloud)
 
 
 ### Crawling 단계
@@ -19,3 +19,8 @@
 2. Descriptive Analysis
 3. EDA를 통한 insight 도출
 4. 데이터 시각화
+
+
+### 결과
+- wordcloud
+![image](https://user-images.githubusercontent.com/68583172/103545128-7b1de980-4ee4-11eb-802b-079d44025308.png)
