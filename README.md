@@ -30,13 +30,37 @@
 #### - wordcloud of FW_position
 
 ![image](https://user-images.githubusercontent.com/68583172/103619039-5bce9d00-4f74-11eb-95dc-c65a520bee2f.png)
+- <유저들의 FW position에 대한 평가>
+- 침투와 체감을 중요시함
+- 드리블, 몸싸움, 크로스에 대한 괌심이 높음
+- 헤딩의 중요성을 보임
+- 호나우두, 호날두, 메시, 네이마르에 대한 언급 비중이 높음
 
 #### - wordcloud of MF_position
 
 ![image](https://user-images.githubusercontent.com/68583172/103621119-12804c80-4f78-11eb-9de5-400d6aba663f.png)
 
+- <유저들의 MF position에 대한 평가>
+- 굴리트, 비에이라 선수에 대한 언급 비중이 높음
+- 패스와 체감을 매우 중요시 여김
+- 중거리에 대한 중요성
+- 더브라위너, 프티 선수도 눈에 띔
+- 크로스의 중요성
+- FW 대비 은카에 대한 관심도가 높음
+- 수비적인 가담이 중요시됨
+
 
 #### - wordcloud of DF_position
 
 ![image](https://user-images.githubusercontent.com/68583172/103622513-304eb100-4f7a-11eb-966f-c1c1597cb50e.png)
+
+- <유저들의 DF position에 대한 평가>
+- 수비수 답게 몸싸움이 매우 중요시 여겨짐
+- '동작'이라는 말의 언급 비중이 높음으로 보아 역동장에 대한 관심이 높음
+- 크로스를 잘 방어해야 하고, 체감을 중요시 여김
+- 다른 포지션 대비 금카, 은카에 대한 비중이 굉장히 높음
+- 풀백에 대한 관심도가 높음
+- 라모스, 바란, 말디니 선수에 대한 언급이 높음
+
+
 
