@@ -23,7 +23,7 @@
 
 ### 결과
 * wordcloud
-- 추출된 선수(extracted_df)에 대한 comment의 wordcloud
+- 추출된 선수(extracted_df) wordcloud of total_position
 ![image](https://user-images.githubusercontent.com/68583172/103545128-7b1de980-4ee4-11eb-802b-079d44025308.png)
 
 - wordcloud of FW_position
