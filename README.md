@@ -64,4 +64,13 @@
 
 #### - wordcloud of GK_position
 
+![image](https://user-images.githubusercontent.com/68583172/103623910-2168fe00-4f7c-11eb-8082-481d35b7846a.png)
+
+- <유저들의 GK position에 대한 평가>
+- 급여에 대한 관심이 가장 높음
+- 중거리, 크로스를 잘 처리해야함
+- 쿠르투아, 데헤아, 노이어에 대한 언급이 많음
+- 라이브 시즌 카드에 대한 언급이 많음
+- 금카에 대한 비중이 매우 높음
+
 
